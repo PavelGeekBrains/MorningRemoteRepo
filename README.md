@@ -5,3 +5,8 @@ Changes from local repository
 Changes from remote repository
 
 Changes from Sharov
+
+Changes from Ivanov
+
+Changed from Murashov
+
