@@ -8,6 +8,8 @@ Changes from Ivanov
 
 Changed from Murashov
 
+Changed from Bordinova
+
 # **Бординова Виктория**
 
 # Семинар 3
