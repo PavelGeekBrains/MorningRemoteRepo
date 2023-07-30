@@ -26,7 +26,14 @@
 
 *  git branch - команда отображающая список существующх веток;
 
-Changes from Ivanov
+### Слияние веток
+
+* git merge branch_name - команда осуществляющая слияние текущей ветки с branch_name;
+* git branch -d branch_name - команда удаляющая ветку branch_name;
+
+Fast-forward - слияние веток класический 
+
+Auto-merging - слияние веток
 
 Changed from Murashov
 
