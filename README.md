@@ -1,4 +1,4 @@
-# My first remote repository
+# Работа с GIT
 
 Changes from local repository
 
