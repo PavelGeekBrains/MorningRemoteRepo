@@ -20,7 +20,11 @@
 
 * git branch -d <название ветки> – удалить ветку.
 
-Changes from remote repository
+### Создание веток
+
+*  git branch Branch_name - команда, инициализирует новую ветку с именем Branch_name;
+
+*  git branch - команда отображающая список существующх веток;
 
 Changes from Ivanov
 
