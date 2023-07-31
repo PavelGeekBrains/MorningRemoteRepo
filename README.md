@@ -7,5 +7,3 @@ Changes from remote repository
 Changes from Ivanov
 
 Changed from Murashov
-
-Changed from Tarkhanov
