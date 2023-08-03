@@ -8,3 +8,6 @@ Changes from Ivanov
 
 Changed from Murashov
 
+git push - Направить в удаленный репозиторий
+
+git pull - Взять из удаленного репозитория
